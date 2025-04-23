@@ -56,9 +56,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
   <!-- SOQL / Salesforce CLI / Postman (optional additions) -->
-  <a href="https://developer.salesforce.com/tools/sfdxcli" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/salesforcecli/artwork/main/sfdx-cli/sfdx-cli.png" alt="sfdx" width="40" height="40"/>
-  </a>
+  
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
