@@ -4,6 +4,7 @@
 <h3 align="left">🎓 Salesforce Certifications</h3>
 <p align="left">
   <img src="https://github.com/SunnyCipher/certifications/blob/main/Platform-Developer-I.png" alt="Salesforce Certified Associate" width="120"/>
+  <img src="https://github.com/SunnyCipher/certifications/blob/main/Associate.png" alt="Salesforce Certified Associate" width="120"/>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnycipher&label=Profile%20views&color=0e75b6&style=flat" alt="sunnycipher" /> </p>
