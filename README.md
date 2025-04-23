@@ -25,6 +25,9 @@
 - 💬 Ask me about **Salesforce architecture, CPQ strategies, CRM transformation, and career transitions into Salesforce.**
 
 - 📫 How to reach me **sunnysalesforce98@gmail.com**
+### Most Used Languages 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycipher&layout=compact&theme=default)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
