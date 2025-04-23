@@ -38,9 +38,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Apex -->
-  <a href="https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-apex-a-strongly-typed-object-oriented-programming-language-logo-shadow-tal-revivo.png" alt="apex" width="40" height="40"/>
-  </a>
+ 
   <!-- LWC -->
   <a href="https://developer.salesforce.com/docs/component-library/documentation/en/lwc" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/49926244?s=200&v=4" alt="lwc" width="40" height="40"/>
