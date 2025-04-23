@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunny Patwa</h1>
-<h3 align="center">A am Salesforce Expert & Solutions Architect</h3>
+<h3 align="center">A am Salesforce Expert & Solution Architect</h3>
 
 <h3 align="left">🎓 Salesforce Certifications</h3>
 <p align="left">
