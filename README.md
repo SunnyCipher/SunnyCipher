@@ -8,6 +8,14 @@
    <img src="https://github.com/SunnyCipher/certifications/blob/main/Platform%20App%20developer.png" alt="Salesofrce certified Plateform App Builder Certification" width="120"/>
   <img src="https://github.com/SunnyCipher/certifications/blob/main/Administrator.png" alt="Salesofrce certified Administrator" width="120"/>
     <img src="https://github.com/SunnyCipher/certifications/blob/main/Salesforce%20Integration%20Architect.png" alt="Salesofrce certified Integration Architect" width="120"/>
+
+  <img src="https://github.com/SunnyCipher/certifications/blob/main/SBA.jpg" alt="Salesofrce BA" width="120"/>
+  <img src="https://github.com/SunnyCipher/certifications/blob/main/Ai%20specialist.png" alt="Ai specialist" width="120"/>
+<img src="https://github.com/SunnyCipher/certifications/blob/main/Sales%20cloud.png" alt="Sales cloud" width="120"/>
+<img src="https://github.com/SunnyCipher/certifications/blob/main/Service%20Cloud.png" alt="Service Cloud" width="120"/>
+  <img src="https://github.com/SunnyCipher/certifications/blob/main/Data%20Ac.png" alt="Data Ac" width="120"/>
+  
+  
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnycipher&label=Profile%20views&color=0e75b6&style=flat" alt="sunnycipher" /> </p>
