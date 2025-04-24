@@ -77,6 +77,7 @@
 </ul>
 
 <h2>Industries Experience</h2>
+<ul>
  <li>Healthcare and life Science</li>
  <li>Financial Services</li>
  <li>Retail E commerce</li> 
@@ -87,6 +88,7 @@
  <li>Energy and Utilities</li>
  <li>Professional Serviced</li>
  <li>Sports and Event Management</li>
+  </ul>
 <hr>
 
 <ul>
