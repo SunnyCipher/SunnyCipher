@@ -14,7 +14,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycipher" alt="sunnycipher" /></a> </p>
 
-- I am Salesforce Expert & Consultant, Architect & AppExchange Developer . [https://ciphermeticconsulting.com/](https://ciphermeticconsulting.com/)
+-As a 12x Certified Salesforce Developer, Consultant and Architect with 10+ years of experience and
+ 60,000+ hours dedicated to building scalable, high-performing Salesforce solutions. I specialize in
+ consulting, customization, and AppExchange development across industries like banking, healthcare,
+ real estate, and e-commerce.
 
 - 👯 I’m looking to collaborate on **Salesforce automation tools, AI integrations with CRM, and open-source CRM utilities.**
 
