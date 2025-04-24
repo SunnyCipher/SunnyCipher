@@ -21,25 +21,23 @@
 
  <h1 align="center">Professional Summary</h1>
  
- -Over 10 years of progressive experience on the Salesforce Platform with 55+ successful
- implementations and extensive hands-on work in enterprise environments.
- -Delivered 5+ AppExchange products using both 1st and 2nd generation managed packages.
- -Executed numerous large-scale data migrations over the last 4 years with a strong focus on accuracy
- and performance.
- -Salesforce Certified Architect, Consultant and Developer with a proven record across Real Estate,
- Healthcare, BFSI, Retail and more.
- -Expertise in core Salesforce Clouds: Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud and
- Revenue Cloud.
- -Specialized experience in Vlocity (OmniStudio), CPQ and Field Service Lightning (FSL).
- -Proficient in enterprise integrations, AppExchange development, multi-cloud architecture and full
- SDLC execution.
- -Experienced in Agile (Scrum-based) and Waterfall methodologies for project delivery.
--Strong skills in requirement gathering, user story mapping, presales consulting and stakeholder
- management.
- -Strategic thinker with the ability to quickly analyze problems and provide industry-standard solutions.
- -Active in the Salesforce community through mentoring, collaboration and thought leadership.
- -Excellent communicator with strong leadership qualities and a proven ability to adapt to dynamic
- environments.
+<div style="background-color:#1e1e1e; color:#ffffff; padding:20px; border-radius:10px; font-family:sans-serif; line-height:1.6;">
+
+- Over 10 years of progressive experience on the Salesforce Platform with 55+ successful implementations and extensive hands-on work in enterprise environments.  
+- Delivered 5+ AppExchange products using both 1st and 2nd generation managed packages.  
+- Executed numerous large-scale data migrations over the last 4 years with a strong focus on accuracy and performance.  
+- Salesforce Certified Architect, Consultant and Developer with a proven record across Real Estate, Healthcare, BFSI, Retail and more.  
+- Expertise in core Salesforce Clouds: Sales Cloud, Service Cloud, Experience Cloud, Marketing Cloud and Revenue Cloud.  
+- Specialized experience in Vlocity (OmniStudio), CPQ and Field Service Lightning (FSL).  
+- Proficient in enterprise integrations, AppExchange development, multi-cloud architecture and full SDLC execution.  
+- Experienced in Agile (Scrum-based) and Waterfall methodologies for project delivery.  
+- Strong skills in requirement gathering, user story mapping, presales consulting and stakeholder management.  
+- Strategic thinker with the ability to quickly analyze problems and provide industry-standard solutions.  
+- Active in the Salesforce community through mentoring, collaboration and thought leadership.  
+- Excellent communicator with strong leadership qualities and a proven ability to adapt to dynamic environments.  
+
+</div>
+
 ### Most Used Languages 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycipher&layout=compact&theme=default)
