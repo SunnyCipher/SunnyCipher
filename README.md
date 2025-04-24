@@ -14,10 +14,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycipher" alt="sunnycipher" /></a> </p>
 
--As a 12x Certified Salesforce Developer, Consultant and Architect with 10+ years of experience and
- 60,000+ hours dedicated to building scalable, high-performing Salesforce solutions. I specialize in
- consulting, customization, and AppExchange development across industries like banking, healthcare,
- real estate, and e-commerce.
+<li>As a 12x Certified Salesforce Developer, Consultant and Architect with 10+ years of experience and
+ 60,000+ hours dedicated to building scalable, high-performing Salesforce solutions.</li>
+ <li>I specialize in consulting, customization, and AppExchange development across industries like banking, healthcare,
+ real estate, and e-commerce.</li>
 
 <h2>Professional Summary</h2>
 
