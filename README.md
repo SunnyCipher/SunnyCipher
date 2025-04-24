@@ -37,20 +37,24 @@
 - Excellent communicator with strong leadership qualities and a proven ability to adapt to dynamic environments.  
 
 </div>
-<div>
 
-   <h1 align="center">Technical Proficiencies</h1>
--Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL
--Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service
--Experience Cloud (Communities), Marketing Cloud (Pardot)
--Integration: REST/SOAP APIs, MuleSoft, Middleware tools
--Data Loader, Workbench, ETL tools, Shield, Event Monitoring
--CI/CD (Gearset, Copado), Git, DevOps practices
--Salesforce DX, Scratch Orgs, Unlocked Packages
--AppExchange App Development & ISV process
--Security: Role Hierarchies, Sharing Rules, OAuth2.0
--Testing: Apex Test Classes, Automation Scripts, UAT
- 
+<div align="center" style="background-color:#1e1e1e; color:#ffffff; padding:20px; border-radius:10px; font-family:sans-serif;">
+
+<h2>Technical Proficiencies</h2>
+
+<ul style="text-align:left; display:inline-block;">
+  <li>Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL</li>
+  <li>Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service</li>
+  <li>Experience Cloud (Communities), Marketing Cloud (Pardot)</li>
+  <li>Integration: REST/SOAP APIs, MuleSoft, Middleware tools</li>
+  <li>Data Loader, Workbench, ETL tools, Shield, Event Monitoring</li>
+  <li>CI/CD (Gearset, Copado), Git, DevOps practices</li>
+  <li>Salesforce DX, Scratch Orgs, Unlocked Packages</li>
+  <li>AppExchange App Development & ISV process</li>
+  <li>Security: Role Hierarchies, Sharing Rules, OAuth2.0</li>
+  <li>Testing: Apex Test Classes, Automation Scripts, UAT</li>
+</ul>
+
 </div>
   
 
