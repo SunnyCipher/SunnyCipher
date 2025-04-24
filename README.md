@@ -76,6 +76,30 @@
   <li>Industry-specific solutioning (Real Estate, BFSI, Healthcare)</li>
 </ul>
   
+<h2>Skills</h2>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
+
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Salesforce CRM</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Data Migration & Integration</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">CRM Migration</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">APEX</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Salesforce Lightning Web Component (LWC)</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Lightning Flow</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">API Integration</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">CPQ & Billing</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Omnistudio (Vlocity)</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Field Service Lightning</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">B2B Commerce Cloud</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Salesforce Marketing Cloud & Pardot</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Certinia (Financialforce)</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Copado</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Mulesoft</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Sales, Service Cloud</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Experience Cloud</div>
+  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Health Cloud</div>
+
+</div>
 
  
 ### Most Used Languages 📊
