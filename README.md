@@ -21,7 +21,7 @@
 
  <h1 align="center">Professional Summary</h1>
  
-<div style="background-color:#1e1e1e; color:#ffffff; padding:20px; border-radius:10px; font-family:sans-serif; line-height:1.6;">
+<div>
 
 - Over 10 years of progressive experience on the Salesforce Platform with 55+ successful implementations and extensive hands-on work in enterprise environments.  
 - Delivered 5+ AppExchange products using both 1st and 2nd generation managed packages.  
@@ -38,6 +38,18 @@
 
 </div>
 
+ <h1 align="center">Technical Proficiencies</h1>
+ -Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL
+ -Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service
+ -Experience Cloud (Communities), Marketing Cloud (Pardot)
+ -Integration: REST/SOAP APIs, MuleSoft, Middleware tools
+ -Data Loader, Workbench, ETL tools, Shield, Event Monitoring
+ -CI/CD (Gearset, Copado), Git, DevOps practices
+ -Salesforce DX, Scratch Orgs, Unlocked Packages
+ -AppExchange App Development & ISV process
+ -Security: Role Hierarchies, Sharing Rules, OAuth2.0
+ -Testing: Apex Test Classes, Automation Scripts, UAT
+ 
 ### Most Used Languages 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnycipher&layout=compact&theme=default)
