@@ -78,28 +78,24 @@
   
 <h2>Skills</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: #f5f5f5; padding: 15px; border-radius: 10px;">
-
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Salesforce CRM</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Data Migration & Integration</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">CRM Migration</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">APEX</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Salesforce Lightning Web Component (LWC)</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Lightning Flow</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">API Integration</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">CPQ & Billing</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Omnistudio (Vlocity)</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Field Service Lightning</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">B2B Commerce Cloud</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Salesforce Marketing Cloud & Pardot</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Certinia (Financialforce)</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Copado</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Mulesoft</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Sales, Service Cloud</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Experience Cloud</div>
-  <div style="border: 2px solid #4e8cff; border-radius: 25px; padding: 8px 16px; background: #ffffff; font-weight: bold;">Health Cloud</div>
-
-</div>
+![Salesforce CRM](https://img.shields.io/badge/-Salesforce%20CRM-blueviolet)
+![Data Migration & Integration](https://img.shields.io/badge/-Data%20Migration%20&%20Integration-blueviolet)
+![CRM Migration](https://img.shields.io/badge/-CRM%20Migration-blueviolet)
+![APEX](https://img.shields.io/badge/-APEX-blueviolet)
+![Salesforce LWC](https://img.shields.io/badge/-Salesforce%20LWC-blueviolet)
+![Lightning Flow](https://img.shields.io/badge/-Lightning%20Flow-blueviolet)
+![API Integration](https://img.shields.io/badge/-API%20Integration-blueviolet)
+![CPQ & Billing](https://img.shields.io/badge/-CPQ%20&%20Billing-blueviolet)
+![Omnistudio (Vlocity)](https://img.shields.io/badge/-Omnistudio%20(Vlocity)-blueviolet)
+![Field Service Lightning](https://img.shields.io/badge/-Field%20Service%20Lightning-blueviolet)
+![B2B Commerce Cloud](https://img.shields.io/badge/-B2B%20Commerce%20Cloud-blueviolet)
+![Marketing Cloud & Pardot](https://img.shields.io/badge/-Marketing%20Cloud%20&%20Pardot-blueviolet)
+![Certinia (Financialforce)](https://img.shields.io/badge/-Certinia%20(Financialforce)-blueviolet)
+![Copado](https://img.shields.io/badge/-Copado-blueviolet)
+![Mulesoft](https://img.shields.io/badge/-Mulesoft-blueviolet)
+![Sales, Service Cloud](https://img.shields.io/badge/-Sales%20&%20Service%20Cloud-blueviolet)
+![Experience Cloud](https://img.shields.io/badge/-Experience%20Cloud-blueviolet)
+![Health Cloud](https://img.shields.io/badge/-Health%20Cloud-blueviolet)
 
  
 ### Most Used Languages 📊
