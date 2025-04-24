@@ -77,16 +77,16 @@
 </ul>
 
 <h2>Industries Experience</h2>
-<li>Healthcare and life Science</li>
-<li>Financial Services</li>
-<li>Retail E commerce</li> 
-<li>Telecommunications</li> 
-<li>Consumer Good</li> 
-<li>Media and Entertainment</li>
-<li>Government and Public Sector</li>
-<li>Energy and Utilities</li>
-<li>Professional Serviced</li>
-<li>Sports and Event Management</li>
+ <li>Healthcare and life Science</li>
+ <li>Financial Services</li>
+ <li>Retail E commerce</li> 
+ <li>Telecommunications</li> 
+ <li>Consumer Good</li> 
+ <li>Media and Entertainment</li>
+ <li>Government and Public Sector</li>
+ <li>Energy and Utilities</li>
+ <li>Professional Serviced</li>
+ <li>Sports and Event Management</li>
 <hr>
 
 <ul>
