@@ -40,16 +40,16 @@
 <div>
 
    <h1 align="center">Technical Proficiencies</h1>
- -Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL
- -Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service
- -Experience Cloud (Communities), Marketing Cloud (Pardot)
- -Integration: REST/SOAP APIs, MuleSoft, Middleware tools
- -Data Loader, Workbench, ETL tools, Shield, Event Monitoring
- -CI/CD (Gearset, Copado), Git, DevOps practices
- -Salesforce DX, Scratch Orgs, Unlocked Packages
- -AppExchange App Development & ISV process
- -Security: Role Hierarchies, Sharing Rules, OAuth2.0
- -Testing: Apex Test Classes, Automation Scripts, UAT
+-Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL
+-Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service
+-Experience Cloud (Communities), Marketing Cloud (Pardot)
+-Integration: REST/SOAP APIs, MuleSoft, Middleware tools
+-Data Loader, Workbench, ETL tools, Shield, Event Monitoring
+-CI/CD (Gearset, Copado), Git, DevOps practices
+-Salesforce DX, Scratch Orgs, Unlocked Packages
+-AppExchange App Development & ISV process
+-Security: Role Hierarchies, Sharing Rules, OAuth2.0
+-Testing: Apex Test Classes, Automation Scripts, UAT
  
 </div>
   
