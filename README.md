@@ -37,8 +37,9 @@
 - Excellent communicator with strong leadership qualities and a proven ability to adapt to dynamic environments.  
 
 </div>
+<div>
 
- <h1 align="center">Technical Proficiencies</h1>
+   <h1 align="center">Technical Proficiencies</h1>
  -Apex, Visualforce, Lightning Flow, Lightning Web Components (LWC), SOQL, SOSL
  -Omnistudio (Vlocity), Salesforce CPQ, Revenue Cloud, Field Service
  -Experience Cloud (Communities), Marketing Cloud (Pardot)
@@ -49,6 +50,10 @@
  -AppExchange App Development & ISV process
  -Security: Role Hierarchies, Sharing Rules, OAuth2.0
  -Testing: Apex Test Classes, Automation Scripts, UAT
+ 
+</div>
+  
+
  
 ### Most Used Languages 📊
 
