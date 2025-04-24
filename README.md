@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sunnycipher" alt="sunnycipher" /></a> </p>
 
-- I’m the Founder of Ciphermetic Consulting Private Limited, specializing in Salesforce solutions. [https://ciphermeticconsulting.com/](https://ciphermeticconsulting.com/)
+- I am Salesforce Expert & Consultant, Architect & AppExchange Developer . [https://ciphermeticconsulting.com/](https://ciphermeticconsulting.com/)
 
 - 👯 I’m looking to collaborate on **Salesforce automation tools, AI integrations with CRM, and open-source CRM utilities.**
 
