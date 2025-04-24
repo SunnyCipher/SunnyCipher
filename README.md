@@ -91,16 +91,6 @@
   </ul>
 <hr>
 
-<ul>
-  <li>Client requirement gathering & solutioning</li>
-  <li>Agile methodologies (Scrum/Kanban)</li>
-  <li>Business process mapping and optimization</li>
-  <li>Pre-sales support, demos, and RFPs</li>
-  <li>Stakeholder & cross-functional team management</li>
-  <li>Functional documentation, training & enablement</li>
-  <li>Project estimation, roadmap planning, and delivery</li>
-  <li>Industry-specific solutioning (Real Estate, BFSI, Healthcare)</li>
-</ul>
   
 <h2>Skills</h2>
 
